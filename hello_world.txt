@@ -1,1 +1,5 @@
 Some text added as per The Odin Project.
+
+Just adding some more text to make some changes before I sleep tonight after finishing this course or step of the course to see if I can really do what was taught in this phase/stage.
+
+So, I make the change here. Save it and then I go to the terminal, check the git status. Then, it will show me red text indicating there was a change. Then, put the file into staging with git add and the name of the file or I can do git add with a . for all files in the changes not staged for commit area so I can commit the changes. Then, I push it to Github.
